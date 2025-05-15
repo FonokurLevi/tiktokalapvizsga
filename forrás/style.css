@@ -71,3 +71,11 @@ p{
 .voros{
   color: #ff0050;
 }
+
+#keret{
+  border: 10px solid #ff0050;
+  border-top-color: #00f2ea;
+  border-left-color: #00f2ea;
+  padding: 5px;
+
+}
